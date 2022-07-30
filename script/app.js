@@ -1,1 +1,1 @@
-alert('Wi fi para as Cozinhas!')
+//alert('Wi fi para as Cozinhas!')
