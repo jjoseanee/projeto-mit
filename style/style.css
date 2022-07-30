@@ -21,3 +21,7 @@ body{
 .imagem{
     flex-basis: 25%;
 }
+.navbar{
+    background-color: #dd2626 !important;
+}
+
